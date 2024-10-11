@@ -63,7 +63,7 @@ cp .env.example .env
 ### User
 
 - **Register User**: `POST /query`
-- **Login User**: `POST /query
+- **Login User**: `POST /query`
 
 ### Links
 
