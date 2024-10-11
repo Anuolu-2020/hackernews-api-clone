@@ -33,6 +33,7 @@ To run the server, you need to configure environment variables. Copy the `.env.e
 
 ```bash
 cp .env.example .env
+```
 
 ### Installation
 
